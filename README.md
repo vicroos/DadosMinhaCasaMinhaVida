@@ -1,5 +1,7 @@
 <div align="center">
+  
 **🏡 Análise de Dados do Programa Minha Casa Minha Vida**
+
 </div>
 
 ---
@@ -21,7 +23,7 @@ O projeto se concentra na análise de dados oficiais do Programa Minha Casa Minh
  **📊 Pré-visualização do Dashboard**
 
 <div align="center">
-[Dashboard de Análise do Minha Casa Minha Vida](https://github.com/user-attachments/assets/ad1e29a1-30a7-489a-a00d-56da3da53a38)
+<img width="1399" height="781" alt="Dashboard" src="https://github.com/user-attachments/assets/76fd3351-7d50-444c-aa09-dcfceefe78da" />
 </div>
 
 ---
