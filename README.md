@@ -16,7 +16,7 @@ O **objetivo principal** é transformar dados brutos em gráficos claros, intera
 
  **🔎 Descrição do Projeto**
 
-O projeto se concentra na análise de dados oficiais do Programa Minha Casa Minha Vida, disponibilizados no portal [Dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/dados-do-minha-casa-minha-vida).
+O projeto se concentra na análise de dados oficiais do Programa Minha Casa Minha Vida, disponibilizados no portal dados.gov.br.
 
 ---
 
@@ -40,4 +40,4 @@ Com base nos dados fornecidos é possível observar que:
 
 **🔗 Fonte dos Dados**
 
-[Dados do Minha Casa Minha Vida - Dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/dados-do-minha-casa-minha-vida)
+https://dados.gov.br/dados/conjuntos-dados/dados-do-minha-casa-minha-vida
