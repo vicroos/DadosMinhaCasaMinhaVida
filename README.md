@@ -1,11 +1,11 @@
 <div align="center">
-# 🏡 Análise de Dados do Programa Minha Casa Minha Vida
+🏡 Análise de Dados do Programa Minha Casa Minha Vida
 </div>
 
 ---
 
 <div align="center">
-## ✨ Sobre o Projeto
+ ✨ Sobre o Projeto
 </div>
 
 Este projeto consiste na **análise e visualização de dados públicos** referentes às operações contratadas no âmbito do Programa Minha Casa Minha Vida.
@@ -15,7 +15,7 @@ O **objetivo principal** é transformar dados brutos em gráficos claros, intera
 ---
 
 <div align="center">
-## 🔎 Descrição do Projeto
+🔎 Descrição do Projeto
 </div>
 
 O projeto se concentra na análise de dados oficiais do Programa Minha Casa Minha Vida, disponibilizados no portal Dados.gov.br.
@@ -23,7 +23,7 @@ O projeto se concentra na análise de dados oficiais do Programa Minha Casa Minh
 ---
 
 <div align="center">
-## 📊 Pré-visualização dos Gráficos
+📊 Pré-visualização dos Gráficos
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@ O projeto se concentra na análise de dados oficiais do Programa Minha Casa Minh
 ---
 
 <div align="center">
-## 💡 Análise Final
+💡 Análise Final
 </div>
 
 <div align="left">
@@ -46,7 +46,7 @@ Algo preocupante dessas informações é que embora o valor total contratado par
 ---
 
 <div align="center">
-## 🔗 Fonte dos Dados
+  🔗 Fonte dos Dados
 </div>
 
 <div align="center">
