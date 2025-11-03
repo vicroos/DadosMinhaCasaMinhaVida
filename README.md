@@ -26,8 +26,9 @@ O projeto se concentra na análise de dados oficiais do Programa Minha Casa Minh
 <img width="1399" height="781" alt="Dashboard" src="https://github.com/user-attachments/assets/76fd3351-7d50-444c-aa09-dcfceefe78da" />
 </div>
 
-Baixando o arquivo .pbix desse repertório e abrindo no Power BI você terá acesso ao gráfico e poderá interagir como ele, filtrando informações se desejar. 
 ---
+
+Baixando o arquivo .pbix desse repertório e abrindo no Power BI você terá acesso ao gráfico e poderá interagir como ele, filtrando informações se desejar. 
 
 **💡 Análise Final**
 
