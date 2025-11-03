@@ -1,43 +1,41 @@
 <div align="center">
-🏡 Análise de Dados do Programa Minha Casa Minha Vida
-</div>
-<div align="center">
-✨ Sobre o Projeto
+# **🏡 Análise de Dados do Programa Minha Casa Minha Vida**
 </div>
 
-Este projeto consiste na análise e visualização de dados públicos referentes às operações contratadas no âmbito do Programa Minha Casa Minha Vida.
+---
 
-O objetivo principal é transformar dados brutos em gráficos claros, interativos e filtrados, utilizando o Power BI para gerar insights sobre a execução do programa.
+## **✨ Sobre o Projeto**
+
+Este projeto consiste na **análise e visualização de dados públicos** referentes às operações contratadas no âmbito do Programa Minha Casa Minha Vida.
+
+O **objetivo principal** é transformar dados brutos em gráficos claros, interativos e filtrados, utilizando o **Power BI**.
+
+---
+
+## **🔎 Descrição do Projeto**
+
+O projeto se concentra na análise de dados oficiais do Programa Minha Casa Minha Vida, disponibilizados no portal [Dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/dados-do-minha-casa-minha-vida).
+
+---
+
+## **📊 Pré-visualização do Dashboard**
 
 <div align="center">
-🔎 Descrição do Projeto
+  ![Dashboard de Análise do Minha Casa Minha Vida](https://github.com/user-attachments/assets/ad1e29a1-30a7-489a-a00d-56da3da53a38)
 </div>
 
-O projeto tem como foco a exploração e tratamento de dados oficiais do Programa Minha Casa Minha Vida, disponibilizados no portal Dados.gov.br
-.
-A partir desses dados, foram realizadas análises estatísticas e visuais que auxiliam na compreensão da execução e impacto do programa em diferentes regiões do Brasil.
+---
 
-<div align="center">
-📊 Pré-visualização dos Gráficos
-</div> <div align="center"> <img width="100%" alt="Dashboard" src="https://github.com/user-attachments/assets/ad1e29a1-30a7-489a-a00d-56da3da53a38" /> </div>
-<div align="center">
-💡 Análise Final
-</div>
+## **💡 Análise Final**
 
-Com base nos dados fornecidos, é possível observar que:
+Com base nos dados fornecidos é possível observar que:
 
-A maioria dos contratos realizados encontra-se entregue ou vigente.
+* A **maioria dos contratos** feitos tem seu resultado como **entregue ou ainda estão vigentes**, sendo **poucos** os casos onde as habitações são distratadas.
+* É perceptível a **dominância da modalidade FAR** (Fundo de Arrendamento Residencial) sobre outras modalidades.
+* Algo preocupante dessas informações é que, embora o **valor total contratado para a Região Sudeste** seja ligeiramente inferior ao da Região Nordeste, o Sudeste apresenta uma **quantidade menor de habitações entregues** em comparação direta com o Nordeste.
 
-Há poucos casos de distrato de habitações.
+---
 
-A modalidade FAR (Fundo de Arrendamento Residencial) apresenta predominância significativa sobre as demais modalidades.
+## **🔗 Fonte dos Dados**
 
-Apesar do valor total contratado na Região Sudeste ser ligeiramente inferior ao da Região Nordeste, o número de habitações entregues no Sudeste é notavelmente menor, indicando uma possível ineficiência na execução regional.
-
-<div align="center">
-🔗 Fonte dos Dados
-</div> <div align="center">
-
-📚 Portal Dados.gov.br – Programa Minha Casa Minha Vida
-
-</div>
+[Dados do Minha Casa Minha Vida - Dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/dados-do-minha-casa-minha-vida)
